@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Set1 Joyce Ong Kai Xin</string>
+    <string name="Name">Enter Your Name :</string>
+    <string name="Course">Choose Your Course</string>
+    <string name="Score">Enter Your Score :</string>
+    <string name="ScoreText">Score</string>
+    <string name="NameText">Name\n</string>
+    <string name="SubmitBtn">Submit</string>
+    <string name="ViewName"/>
+    <string name="NameEntered" />
+    <string name="ViewCourse" />
+    <string name="CourseEntered" />
+    <string name="ViewScore" />
+    <string name="ScoreEntered" />
+    <string-array name="Course_array">
+        <item>BAIT2073</item>
+        <item>BAIT4040</item>
+        <item>BAIT3028</item>
+    </string-array>
+</resources>
